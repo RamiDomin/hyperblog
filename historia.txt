@@ -1,5 +1,5 @@
-Este es el archivo de prueba para Git
+Este es el archivo de prueba para Git, se llama historia
 
-Hoy es mi primer intento de usar Git y depronto GitHub
+Hoy use Git por primera vez y depronto GitHub tambien
 
-Espero que sirva
+Si sirvio
